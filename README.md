@@ -13,4 +13,4 @@
 - Korean 🇰🇷
 
 ## 📫 Contact
-- Email: your-email@gmail.com
+- Email: Selin.Shahi.CS@gmail.com
